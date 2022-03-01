@@ -1,0 +1,41 @@
+
+.cardtwo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+}
+
+
+.cardthree ul {
+list-style: none;
+}
+
+
+.cardwrap {
+  flex-basis: 250px;
+  margin: 10px;
+  padding-left: 0px;
+}
+
+.cardthree {
+  flex-grow: 1;
+  padding-left: 0px;
+}
+
+
+.cardone {
+  margin-bottom: 30px;
+}
+
+
+.cardone ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+
+#asterisque {
+  font-size: 10px;
+  padding-left: 5px;
+}

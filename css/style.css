@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans&display=swap') ;
+@import url("components/container.css") ;
+@import url("components/avatar.css") ;
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: 'Noto Sans', sans-serif ;
+  font-size: 15px;
+  margin: 0px;
+  background-color:#2F2547 ;
+  color: #FBF5FF;
+  font-weight: thin ;
+  }
+
+h1, h2, h3 {
+ font-family: 'Lato', sans-serif ;
+ font-weight: bold;
+}
+
+h1 {
+  color: #E6E226 ;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+h2 {
+ font-size: 20px;
+ font-weight: normal;
+}
+
+p {
+  font-size: 15px;
+  font-weight: thin;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 text-decoration {
+  color: #E6E226 ;
+}
+
+colors
+#2F2547 bleu
+#E6E226 jaune
+#FBF5FF blanc
+#C95A12 orange
+
+
